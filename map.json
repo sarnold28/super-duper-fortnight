@@ -1187,13 +1187,84 @@
          "columns":16,
          "firstgid":6790,
          "image":"tiles\/[Base]BaseChip_pipo.png",
-         "imageheight":2376,
+         "imageheight":2368,
          "imagewidth":512,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
          "spacing":0,
          "tilecount":1184,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":193,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":8.82205513784461,
+                             "id":4,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":12.2151532677848,
+                             "x":2.89955658376711,
+                             "y":7.21804511278195
+                            }, 
+                            {
+                             "height":0,
+                             "id":5,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0,
+                             "x":18.0142664353191,
+                             "y":15.4848660111818
+                            }, 
+                            {
+                             "height":9.37728937728938,
+                             "id":6,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":14.8679390784654,
+                             "x":5.18218623481781,
+                             "y":14.8062463851938
+                            }, 
+                            {
+                             "height":32,
+                             "id":7,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":0
+                            }, 
+                            {
+                             "height":32,
+                             "id":8,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":0
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }],
          "tilewidth":32
         }, 
         {
